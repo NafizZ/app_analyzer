@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668776581073",
+    "project_id": "app-analyzer-ed257",
+    "storage_bucket": "app-analyzer-ed257.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668776581073:android:d2879122369b59473dc2f0",
+        "android_client_info": {
+          "package_name": "com.example.app_analyzer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAicmH4Dnd-aspoaGFwjSz4vgGG1IeHIU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
